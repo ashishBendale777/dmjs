@@ -6,3 +6,13 @@ type of instructions
 5 I/O instructions
 
 VS Code is IDE (Integrated Development Envirnment)
+
+
+steps for creating JS project
+create blank folder and open CMD
+project creation===npm init -y
+open folder in VS code using code .
+package installation == npm install nodemon
+add start script in script block of package.json file
+
+
