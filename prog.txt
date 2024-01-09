@@ -1,0 +1,8 @@
+type of instructions
+1 Arithmetic instructions (+ - / *)
+2 data type declaration instructions
+3 control instructions (if..else)
+4 looping instructions (for...while...do while)
+5 I/O instructions
+
+VS Code is IDE (Integrated Development Envirnment)
