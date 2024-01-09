@@ -7,7 +7,6 @@ type of instructions
 
 VS Code is IDE (Integrated Development Envirnment)
 
-
 steps for creating JS project
 create blank folder and open CMD
 project creation===npm init -y
