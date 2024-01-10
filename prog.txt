@@ -21,5 +21,5 @@ run program ==npm start
 JS Operators
 Arithmetic Operator --: + - / * %
 Assignment Operator --: = += -= /= *= %=
-Logical Operator --: &&(and) ]](or) !(not)
+Logical Operator --: &&(and) ||(or) !(not)
 Comparison/relational Operator --: >(lt) <(gt) >=(gte) <=(lte) ==(equal to) !=(not equal)
