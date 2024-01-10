@@ -12,6 +12,14 @@ create blank folder and open CMD
 project creation===npm init -y
 open folder in VS code using code .
 package installation == npm install nodemon
+create demo.js file
 add start script in script block of package.json file
+"start":"nodemon demo.js"
+run program ==npm start
 
-
+=============================================
+JS Operators
+Arithmetic Operator --: + - / * %
+Assignment Operator --: = += -= /= *= %=
+Logical Operator --: &&(and) ]](or) !(not)
+Comparison/relational Operator --: >(lt) <(gt) >=(gte) <=(lte) ==(equal to) !=(not equal)
