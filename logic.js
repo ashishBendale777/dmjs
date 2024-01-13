@@ -5,7 +5,7 @@ console.log(a == b)
 console.log(a <= b)
 console.log(a != b)
 console.log(a >= b && a <= b)
-console.log(a >= b || a <= b)
+console.log(a >= b  || a <= b)
 
 //controll instruction
 if (a < b) {
