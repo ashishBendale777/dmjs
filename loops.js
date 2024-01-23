@@ -1,14 +1,9 @@
-console.log("hi..")
+// for (let i = 10; i >= 1; i--) {
+//     console.log(i)
+// }
 
-var num=54
-// == in increment opearater 
-//increment value by1
-
-//post-increment
-console.log(num++)//55
-console.log(++num)//56
-console.log(++num)//57
-console.log(num++)//57
-console.log(++num)//59
-console.log(num++)//
-console.log(--num)//58
+//const nums = [43, 65, 23, 76, 223, 76, 23, 98, 23, 76, 35, 88, 33, 85]
+const nums = [43, 65, 23, 76, 223, 34, 54]
+for (let index = 0; index < nums.length; index++) {
+    console.log(nums[index])
+}
