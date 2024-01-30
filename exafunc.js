@@ -1,26 +1,22 @@
-//exafunc.js
+var name = "Ashish@123"
 
-//function is block of code which is reusable at
-//anywhere in a project
+var sentence = "i am a boy                "
+// console.log(name.length)
+// console.log(name.charAt(3))
+// console.log(name.toUpperCase())
+// console.log(name.toLowerCase())
 
-//step 1 define/declare function
-//function without params
-function add() {
-    //function body
-    var a = 43
-    var b = 54
-    console.log('Sum', a + b)
-}
+console.log(sentence.split('a'))
+console.log(name.split('@'))
 
+console.log(sentence.replace('boy', 'girl'))
+console.log(name.replace('@', '='))
 
-//function with parameters
-function sub(x, y) {
-    console.log("Sub", x - y)
-}
+console.log(sentence.indexOf('a'))
+console.log(sentence.slice(2, 9))
+console.log(sentence.substring(1, 5))
 
-//function calling
-add()
+console.log(sentence.length)
+console.log(sentence.trimEnd().length)
 
-//function calling with parameters
-sub(32, 65)
-sub(22, 35)
+console.log(sentence.trim())
