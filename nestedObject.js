@@ -24,3 +24,7 @@ const user = {
 
 console.log("ADDRESS", user.address.street, user.address.suite, user.address.city)
 console.log("GER", user.address.geo.lat, user.address.geo.lng)
+
+
+console.log("EMAIL IS", user.email)
+console.log(`EMAIL Is ${user.email} company name ${user.company.name}`)
