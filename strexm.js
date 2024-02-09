@@ -1,12 +1,15 @@
+//strexm.js
 //String function
 
 //declare a string
 const data = "I am a Boy"
 
+//
 console.log(data.toUpperCase())
+console.log(data.toLocaleLowerCase())
 
 //charAt
-console.log(data.charAt(0))//o/p ==I
+console.log(data.charAt(3))//o/p ==I
 
 //nreaks a string by charecter
 const words = data.split(' ')
